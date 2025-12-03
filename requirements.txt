@@ -7,3 +7,4 @@ tqdm
 imageio
 pillow
 opencv-python
+h5py
