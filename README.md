@@ -16,7 +16,7 @@ bash Miniconda3-latest-Linux-x86_64.sh
 * Install dependencies, We use python 3.12 to make sure we have less troubles with opencv
 
 ```
-conda create -n ML_course_env python=3.12
+conda create -n ML_course_env python=3.14
 conda activate ML_course_env
 cd ${DL_course}
 pip install -r requirements.txt
