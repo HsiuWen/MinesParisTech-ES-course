@@ -8,3 +8,4 @@ imageio
 pillow
 opencv-python
 h5py
+requests
